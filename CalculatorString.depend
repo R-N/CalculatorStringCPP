@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1489353829 source:c:\users\mojomacw7\documents\calculatorstring\doublelinkedlistvoid.c
+	"DoubleLinkedListVoid.h"
+
+1489334672 c:\users\mojomacw7\documents\calculatorstring\doublelinkedlistvoid.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"General.h"
+
+1489305871 c:\users\mojomacw7\documents\calculatorstring\general.h
+
+1489355118 source:c:\users\mojomacw7\documents\calculatorstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calc2.h"
+
+1489352633 c:\users\mojomacw7\documents\calculatorstring\calc2.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"General.h"
+	"DoubleLinkedListVoid.h"
+
+1489354623 source:c:\users\mojomacw7\documents\calculatorstring\calc2.c
+	"Calc2.h"
+
+1489353829 source:c:\users\wachjudi\documents\calculatorstring\doublelinkedlistvoid.c
+	"DoubleLinkedListVoid.h"
+
+1489334672 c:\users\wachjudi\documents\calculatorstring\doublelinkedlistvoid.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"General.h"
+
+1489305871 c:\users\wachjudi\documents\calculatorstring\general.h
+
+1489466021 source:c:\users\wachjudi\documents\calculatorstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calc2.h"
+
+1489462914 c:\users\wachjudi\documents\calculatorstring\calc2.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"General.h"
+	"DoubleLinkedListVoid.h"
+
+1489462939 source:c:\users\wachjudi\documents\calculatorstring\calc2.c
+	"Calc2.h"
+
+1490011500 source:c:\users\mojomacw7\documents\calculatorstringcpp\calc2.cpp
+	"Calc2.hpp"
+
+1490010441 c:\users\mojomacw7\documents\calculatorstringcpp\calc2.hpp
+	<cstdio>
+	<iostream>
+	<cmath>
+	"General.hpp"
+	<list>
+	<stdexcept>
+	<string.h>
+
+1489305871 c:\users\mojomacw7\documents\calculatorstringcpp\general.hpp
+
+1490010302 source:c:\users\mojomacw7\documents\calculatorstringcpp\main.cpp
+	<iostream>
+	<string>
+	"Calc2.hpp"
+
